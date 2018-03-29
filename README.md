@@ -11,7 +11,7 @@ Leiningen/Boot
 --------------
 
 ```clojure
-[lein-jar-git-info "0.0.0"]
+[lein-jar-git-info "0.1.0"]
 ```
 
 
