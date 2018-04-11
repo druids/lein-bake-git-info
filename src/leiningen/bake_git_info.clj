@@ -54,7 +54,6 @@
 
 (defn- bake-into-jar
   [config git-info]
-  (println config)
   (let [fs (FileSystems/newFileSystem (as-path (:jar-path config)) nil)
         target-path (.getPath fs (:project-dir config) (into-array String [(:config-name config)]))
         parsed (-> target-path .toUri slurp (string/replace (:placeholder config) git-info))]
