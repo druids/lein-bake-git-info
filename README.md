@@ -16,7 +16,7 @@ Leiningen/Boot
 Add following line into a project's `:plugins`
 
 ```clojure
-[lein-bake-git-info "0.1.0"]
+[lein-bake-git-info "0.2.0"]
 ```
 
 Usage
