@@ -1,3 +1,11 @@
+## 0.2.0
+
+#### Changes
+
+ - Add documentation #4
+ - Upgrade dependencies #4
+
+
 ## 0.1.0
 
 #### New Features
