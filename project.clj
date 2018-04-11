@@ -5,7 +5,7 @@
             :url "http://opensource.org/licenses/MIT"}
 
   :dependencies [[clj-jgit "0.8.10"]
-                 [clj-time "0.14.2"]]
+                 [clj-time "0.14.3"]]
 
   :eval-in-leiningen true
 
