@@ -1,3 +1,10 @@
+## 0.3.0
+
+#### Changes
+
+ - Upgrade dependencies #7
+
+
 ## 0.2.0
 
 #### Changes
