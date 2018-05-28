@@ -5,13 +5,13 @@
             :url "http://opensource.org/licenses/MIT"}
 
   :dependencies [[clj-jgit "0.8.10"]
-                 [clj-time "0.14.3"]]
+                 [clj-time "0.14.4"]]
 
   :eval-in-leiningen true
 
   :profiles {:dev {:plugins [[lein-cloverage "1.0.10"]
                              [lein-kibit "0.1.6"]
-                             [jonase/eastwood "0.2.5"]
+                             [jonase/eastwood "0.2.6"]
                              [venantius/ultra "0.5.2"]]
 
                    :dependencies [[org.clojure/clojure "1.9.0"]]}})
