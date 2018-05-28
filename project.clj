@@ -1,4 +1,4 @@
-(defproject lein-bake-git-info "0.2.0"
+(defproject lein-bake-git-info "0.3.0"
   :description "A Leiningen plugin that bakes a git information into JAR file"
   :url "https://github.com/druids/lein-bake-git-info"
   :license {:name "MIT License"
